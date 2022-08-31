@@ -1,2 +1,2 @@
 #!/bin/bash
-rm tmp -r
+rm -r tmp
