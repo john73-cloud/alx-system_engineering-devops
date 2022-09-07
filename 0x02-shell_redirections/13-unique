@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $@ > test | uniq -u test
+echo $@ | uniq -u /dev/stdin
